@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>dmxusbpro</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.nullmedium.dmxusbpro</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.1.1</string>
+	<key>CFBundleLongVersionString</key>
+	<string>dmxusbpro 1.5, Copyright 2013 Cycling '74</string>
+	<key>CFBundlePackageType</key>
+	<string>iLaX</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.5</string>
+	<key>CFBundleSignature</key>
+	<string>max2</string>
+	<key>CFBundleVersion</key>
+	<string>1.5</string>
+	<key>CSResourcesFileMapped</key>
+	<false/>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2005-2013 Olaf Matthes</string>
+</dict>
+</plist>
