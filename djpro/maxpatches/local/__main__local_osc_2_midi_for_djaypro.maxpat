@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 114.0, 79.0, 705.0, 705.0 ],
+		"rect" : [ 1050.0, 106.0, 705.0, 705.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -208,7 +208,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 265.0, 207.0, 55.0, 20.0 ],
-					"presentation_linecount" : 2,
 					"text" : "FILTER"
 				}
 
@@ -545,7 +544,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 17.0, 33.0, 104.0, 22.0 ],
-					"text" : "udpreceive 23232"
+					"text" : "udpreceive 33334"
 				}
 
 			}
@@ -764,7 +763,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "poly_parse.maxpat",
-				"bootpath" : "~/of_v0.11.0_osx_release/apps/StayingTokyo/djpro/maxpatches",
+				"bootpath" : "~/of_v0.11.0_osx_release/apps/StayingTokyo/djpro/maxpatches/local",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
